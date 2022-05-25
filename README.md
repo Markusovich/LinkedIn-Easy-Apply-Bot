@@ -11,7 +11,10 @@ The run the bot install requirements
 pip3 install -r requirements.txt
 ```
 
-Enter your username, password, and search settings into the `config.yaml` file
+Create file in main directory named `config.yaml`
+
+Copy and paste this code into `config.yaml`
+Then enter your username, password, and search settings into the `config.yaml` file
 
 ```yaml
 username: # Insert your username here
